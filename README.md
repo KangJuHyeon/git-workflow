@@ -12,7 +12,7 @@ Git Workflow
 ### * 주의 push는 내 Repo에 하고 pull은 상대방의 Repo를 가져온다.
 
 # 충돌 해결
-```
+
 ### 5번에서 다른사람이 pull로 안가져오게되면 충돌이 일어난다.
 ### pull을 안하고 add, commit, push를 하게 되면 에러가 나는데... 그 에러는 대부분 [rejected] master -> master (fetch first) 이런식으로 나온다.
 ### 이 해결법은 pull을 하게되면 해결된다.
@@ -24,7 +24,7 @@ Git Workflow
 ### 3번째는 나, 다른사람의 코드를 둘다 사용할 것이다.
 ### 4번째는 내 코드와 비교하여 고치겠다. 라는 뜻이다.
 ### 설정을 다 한 후에 add, commit, push해서 사용하면 된다.
-```
+
 
 
 # 브랜치 만들기
